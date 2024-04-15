@@ -1,1 +1,3 @@
-<?PHP echo "Hellow world" ; ?>
+<?php
+print exec('hostname');
+?>
